@@ -12,8 +12,9 @@ Exploring the world of code, data, and AI.
 - Version control and collaboration using Git & GitHub
 
 
+![36253](https://github.com/user-attachments/assets/a3aa6cab-7c2f-478f-a06b-110637e3e168)
 
-![36253](https://github.com/user-attachments/assets/8497d272-d89c-43ec-b02a-b9b4a4691e8b)
+
 
 
 ## Contact Me
