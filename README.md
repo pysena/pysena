@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there,
 
-<!--
-**pysena/pysena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Programming student at Istanbul University and currently learning Generative AI Engineering at IBM.
+Exploring the world of code, data, and AI.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Python projects and algorithms
+- AI and Machine Learning: Generative AI, basic ML concepts
+- Open Source contribution
+- Version control and collaboration using Git & GitHub
+
+
+
+![36253](https://github.com/user-attachments/assets/8497d272-d89c-43ec-b02a-b9b4a4691e8b)
+
+
+## Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/snyl)
+
+[GitHub](https://www.github.com/pysena)
+
+[Email Me](mailto:senayildizim@gmail.com)
+
