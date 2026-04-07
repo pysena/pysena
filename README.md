@@ -1,27 +1,61 @@
-## Hi there,
+<div align="left">
 
-I'm a Computer Programming student at Istanbul University and currently learning Generative AI Engineering at IBM.
-Exploring the world of code, data, and AI.
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=false&width=500&lines=character+unlocked%3A+pysena)
+
+</div>
+
+```
+> interests.load()
+```
+
+```python
+interests = [
+    "python projects",
+    "data & analytics",
+    "machine learning",
+    "artificial intelligence",
+]
+```
+
+---
+
+```
+> curriculum.load()
+```
+
+```
+[████░░░░░░] Python                     loading...
+[████░░░░░░] C#                         loading...
+[████░░░░░░] OOP                        loading...
+[████░░░░░░] Web Design  (HTML/CSS)     loading...
+[████░░░░░░] Databases & SQL            loading...
+[████░░░░░░] Machine Learning           loading...
+[████░░░░░░] Web Programming            loading...
+[████░░░░░░] Visual Programming         loading...
+[████░░░░░░] Mobile Programming         loading...
+[████░░░░░░] Software Quality & Testing loading...
+[████░░░░░░] Computer Networks          loading...
+[████░░░░░░] Decision Theory            loading...
+[████░░░░░░] IS Analysis & Design       loading...
+```
+
+---
 
 
-## Currently Learning
+```
+> contact.init()
+```
 
-- Python projects and algorithms
-- AI and Machine Learning: Generative AI, basic ML concepts
-- Open Source contribution
-- Version control and collaboration using Git & GitHub
+<div align="center">
 
+[`🔗 linkedin`](https://www.linkedin.com/in/snyl) &nbsp;·&nbsp; [`🐙 github`](https://www.github.com/pysena) &nbsp;·&nbsp; [`✉ email`](mailto:senayildizim@gmail.com)
 
-![36253](https://github.com/user-attachments/assets/a3aa6cab-7c2f-478f-a06b-110637e3e168)
+</div>
 
+---
 
+<div align="center">
 
+![](https://media.giphy.com/media/qJdSM83JIRHWjAB9wZ/giphy.gif)
 
-## Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/snyl)
-
-[GitHub](https://www.github.com/pysena)
-
-[Email Me](mailto:senayildizim@gmail.com)
-
+</div>
