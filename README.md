@@ -19,44 +19,20 @@ interests = [
 ]
 ```
 
----
-
-```
-> curriculum.load()
-```
-
-```
-[████░░░░░░] Python                     loading...
-[████░░░░░░] C#                         loading...
-[████░░░░░░] OOP                        loading...
-[████░░░░░░] Web Design  (HTML/CSS)     loading...
-[████░░░░░░] Databases & SQL            loading...
-[████░░░░░░] Machine Learning           loading...
-[████░░░░░░] Web Programming            loading...
-[████░░░░░░] Visual Programming         loading...
-[████░░░░░░] Mobile Programming         loading...
-[████░░░░░░] Software Quality & Testing loading...
-[████░░░░░░] Computer Networks          loading...
-[████░░░░░░] Decision Theory            loading...
-[████░░░░░░] IS Analysis & Design       loading...
-```
-
----
-
-
 ```
 > contact.init()
 ```
 
-<div align="center">
+<div align="left">
 
-[`🔗 linkedin`](https://www.linkedin.com/in/snyl) &nbsp;·&nbsp; [`🐙 github`](https://www.github.com/pysena) &nbsp;·&nbsp; [`✉ email`](mailto:senayildizim@gmail.com)
+[`🔗 linkedin`](https://www.linkedin.com/in/snyl)
+[`🐙 github`](https://www.github.com/pysena)
+[`✉ email`](mailto:senayildizim@gmail.com)
 
 </div>
 
----
 
-<div align="center">
+<div align="left">
 
 ![](https://media.giphy.com/media/qJdSM83JIRHWjAB9wZ/giphy.gif)
 
