@@ -1,7 +1,9 @@
 <div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=1&color=00FF41&center=false&width=500&lines=%E2%80%A2+New+Player" alt="New Player" />
+</div>
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=false&width=500&lines=New+Player+Has+Entered+the+Game)
-
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=808080&center=false&width=500&lines=STATUS:+READY_TO_CODE" alt="System Status" />
 </div>
 
 ```
