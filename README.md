@@ -1,6 +1,6 @@
 <div align="left">
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=false&width=500&lines=character+unlocked%3A+pysena)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=false&width=500&lines=New+Player+Has+Entered+the+Game)
 
 </div>
 
